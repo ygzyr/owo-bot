@@ -1,0 +1,19 @@
+{
+  
+  "name": "github.com/ygzyr",
+  "version": "8.4.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "//made by ygzyr, 198544505232687106",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "wio.db": "^4.0.21"
+  }
+}

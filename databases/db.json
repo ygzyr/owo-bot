@@ -1,0 +1,27 @@
+{
+    "token": "token",
+    "channelid": "channelid",
+    "ownerid": "id",
+    "owosystemstatus": "1",
+    "captchasecurity": "1",
+    "systems": {
+        "whunt": "1",
+        "wbattle": "1",
+        "whug": "1",
+        "wkiss": "1",
+        "wcf": "1"
+    },
+    "securitytime": "3",
+    "owomessage": "0",
+    "owomessagestatus": "0",
+    "owomessagetype": "0",
+    "owosecurity": "0",
+    "autosell": "0",
+    "autogive": "0",
+    "hunt": 57,
+    "battle": 34,
+    "kiss": 31,
+    "hug": 23,
+    "cf": 20
+    
+}
